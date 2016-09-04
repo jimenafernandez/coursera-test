@@ -1,0 +1,57 @@
+h1.Header{
+	font-size: 30px;
+	text-align: left;
+
+}
+
+p.text-center{
+	font-size: 30px;
+}
+
+div.chicken{
+	margin-bottom: 10px;
+	font-size: 20px;
+
+}
+
+section.container-fluid{
+	margin: 10px 10px 20px 10px; 
+	text-align: center;
+background-color: pink;
+
+
+}
+
+#header-nav{
+	border-radius: 0;
+	border:0;
+}
+
+div.Our-Menu{
+	font-size: 30px;
+	text-align: center;
+	margin-top: 50px;
+}
+li:hover{
+	background-color: pink;
+}
+
+
+div.menu-desplegable{
+	text-align: center;
+}
+
+li.Borde-chicken{
+	border: 1px solid;
+}
+li.Borde-bieff-sushi{
+	border-left: 1px solid;
+	border-right: 1px solid;
+	border-bottom: 1px solid;
+	border-top: 0.1px solid;
+}
+ul {
+	border:1px solid;
+	background-color: red;
+}
+
